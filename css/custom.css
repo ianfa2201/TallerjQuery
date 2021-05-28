@@ -1,0 +1,24 @@
+li a {
+    text-align: center;
+}
+
+li a:hover {
+    background-color: rgb(2, 2, 66);
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#titulo {
+    font-size: 2.5em;
+}
+
+#nombrePagina {
+    font-size: 2.5em;
+}
+
+#div-image,
+#copy {
+    margin: 0 5em;
+}
